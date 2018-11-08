@@ -18,4 +18,4 @@
 
 ## 機能拡張
 
-[Mastodonで性的な画像などをNSFWできるようにした - Qiita](https://qiita.com/S_H_/items/a04b46b27fc73b7a5025)
+* [Mastodonで性的な画像などをNSFWできるようにした - Qiita](https://qiita.com/S_H_/items/a04b46b27fc73b7a5025)
