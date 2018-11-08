@@ -25,6 +25,10 @@ GitHub~~またはDiscord(OAuth2)~~のアカウントで参加してください�
 [microblog.pub関連(/microblogpub)](/microblog.pub)
 [Diaspora\*関連(/diaspora)](/diaspora)
 
+Other...
+[Discordサーバー関連](/discord)
+立ち上げ支援依頼に関する情報は[こちら](/discord/support-policy)
+
 # 簡単なページ作成ルール
 特に指定はないですが、[カテゴリ](#カテゴリ)配下に関連情報を書いてくれると、アクセシビリティが増します。
 
