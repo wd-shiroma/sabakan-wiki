@@ -28,9 +28,18 @@ DNSのドメイン名はcase insensitive(大文字・小文字を区別しない
 
 ### 一時的にディスクに1GBのスワップ領域を作成して有効にする方法
 
-	sudo fallocate -l 1G /test
-	sudo mkswap /test
-	sudo swapon /test
+再起動時は無効となります。
+
+追加
+
+	sudo fallocate -l 1G /swap
+	sudo mkswap /swap
+	sudo swapon /swap
+
+削除
+
+	sudo swapoff /swap
+	sudo rm /swap
 
 # ユーザの罠
 
