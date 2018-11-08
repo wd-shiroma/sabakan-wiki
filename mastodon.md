@@ -6,5 +6,6 @@
 
 ----
 
+* [マストドンの基本情報](/mastdon/basic)
 * [マストドンの記事リンク集](/mastodon/links)
 * [tootctl](/mastodon/tootctl)
