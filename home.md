@@ -2,7 +2,7 @@
 <!-- SUBTITLE: 鯖缶の鯖缶による鯖缶のためのナレッジベース -->
 
 # ようこそ
-このWikiは [マストドン](https://joinmastodon.org) を中心とした、分散型SNSのインスタンスの構築やサーバ管理のためのナレッジを蓄積するためのWikiです。
+このWikiは [Mastodon](https://joinmastodon.org) を中心とした、分散型SNSのインスタンスの構築やサーバ管理のためのナレッジを蓄積するためのWikiです。
 
 誰でも自由に記事を編集してください！
 
@@ -16,7 +16,7 @@ GitHub ~~またはDiscord(OAuth2)~~ のアカウントで参加してくださ�
 
 # カテゴリ
 [サーバー全般(/server)](/server)
-[マストドン関連(/mastodon)](/mastodon)
+[Mastodon関連(/mastodon)](/mastodon)
 [Pleroma関連(/pleroma)](/pleroma)
 [Misskey関連(/misskey)](/misskey)
 [GNUSocial関連(/gnusocial)](/gnusocial)
