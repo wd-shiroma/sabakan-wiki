@@ -8,5 +8,5 @@
 
 * [マストドンの基本情報](/mastdon/basic)
 * [マストドンの記事リンク集](/mastodon/links)
-* [マストドン構築・運用時の罠](/mastodon/traps)
 * [tootctl](/mastodon/tootctl)
+* [マストドン構築・運用時の罠](/mastodon/traps)
