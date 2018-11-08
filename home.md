@@ -9,7 +9,7 @@
 お試しで記事編集の練習をしてみたい方は、[sandbox](/sandbox) をご利用ください。
 
 **※記事の編集には[ログイン](/login)が必要です。**
-GitHub~~またはDiscord(OAuth2)~~のアカウントで参加してください。
+GitHub ~~またはDiscord(OAuth2)~~ のアカウントで参加してください。
 ※DiscordはOAuth2からメールアドレスが取れなそうなので、しばらく停止します。
 
 鯖缶工場Discordサーバは[こちら](https://discordapp.com/channels/480731529073524736)
