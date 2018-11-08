@@ -19,3 +19,7 @@
 ## 機能拡張
 
 * [Mastodonで性的な画像などをNSFWできるようにした - Qiita](https://qiita.com/S_H_/items/a04b46b27fc73b7a5025)
+
+## その他
+
+* [Mastodon Advent Calendar 2017 - Qiita](https://qiita.com/advent-calendar/2017/mastodon)
