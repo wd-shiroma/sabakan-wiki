@@ -12,7 +12,7 @@
 
 追加
 
-	$ sudo fallocate -l 1G /swap
+	$ sudo fallocate -l 2G /swap
 	$ sudo mkswap /swap
 	$ sudo swapon /swap
 
