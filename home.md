@@ -15,15 +15,15 @@ GitHub ~~またはDiscord(OAuth2)~~ のアカウントで参加してくださ�
 鯖缶工場Discordサーバは[こちら](https://discordapp.com/channels/480731529073524736)
 
 # カテゴリ
-[サーバー全般(/server)](/server)
-[Mastodon関連(/mastodon)](/mastodon)
-[Pleroma関連(/pleroma)](/pleroma)
-[Misskey関連(/misskey)](/misskey)
-[GNUSocial関連(/gnusocial)](/gnusocial)
-[Hubzilla関連(/hubzilla)](/hubzilla)
-[Yayaka関連(/yayaka)](/yayaka)
-[microblog.pub関連(/microblogpub)](/microblog.pub)
-[Diaspora\*関連(/diaspora)](/diaspora)
+* [サーバー全般(/server)](/server)
+* [Mastodon関連(/mastodon)](/mastodon)
+* [Pleroma関連(/pleroma)](/pleroma)
+* [Misskey関連(/misskey)](/misskey)
+* [GNUSocial関連(/gnusocial)](/gnusocial)
+* [Hubzilla関連(/hubzilla)](/hubzilla)
+* [Yayaka関連(/yayaka)](/yayaka)
+* [microblog.pub関連(/microblogpub)](/microblog.pub)
+* [Diaspora\*関連(/diaspora)](/diaspora)
 
 Other...
 [Discordサーバー関連](/discord)
