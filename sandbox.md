@@ -19,6 +19,8 @@
 
 # マストドン リンク集(Wikiの練習です)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IPSbNdBmWKE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## 全般情報
 * [マストドン公式サイト](https://www.joinmastodon.org/)
 * [マストドン日本語Wiki](https://ja.mstdn.wiki/)
