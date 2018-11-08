@@ -7,3 +7,4 @@
 ----
 
 * [マストドンの記事リンク集](/mastodon/links)
+* [tootctl](/mastodon/tootctl)
