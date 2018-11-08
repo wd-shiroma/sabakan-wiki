@@ -13,12 +13,14 @@
 ## SSH
 
 - [ ] rootユーザーでログインが出来ないようになっているか
+				sshd_config で `PermitRootLogin no`になっているか
 - [ ] パスワード認証を無効にしているか
+				sshd_config で `PasswordAuthentication no` になっているか
 
 ## ファイアウォール
 - [ ] 80、443、SSHで使用するポートが外向けに開いていないか
 - [ ] IPv6でアクセスした場合でも、不要なポートが外向けに開いていないか
-	Ubuntuであればufwが有効になっているか、公開する必要の無いポートをallowしていないかを確認すること。
+				Ubuntuであればufwが有効になっているか、公開する必要の無いポートをallowしていないかを確認すること。
 
 ## HTTPヘッダ
 - [ ] HTTP Strict Transport Security (HSTS) ヘッダを設定しているか。
@@ -27,4 +29,4 @@
 
 ## HTTPS
 - [ ] Let'sEncryptを使用する場合、certbotの動作を確認したか
-	`certbot renew --dry-run`で確認できます。
+				`certbot renew --dry-run`で確認できます。
