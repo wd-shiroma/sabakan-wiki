@@ -36,4 +36,4 @@
 		echo -n "ゆゆ式 "
 	done
 
-
+おお、Markdownじゃ、Markdownでかけるぞ〜〜
