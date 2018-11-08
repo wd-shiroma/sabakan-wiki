@@ -16,8 +16,15 @@
 - [ ] パスワード認証を無効にしているか
 
 ## ファイアウォール
-
-- [ ] 80、443、SSHのポート以外を閉じているか
+- [ ] 80、443、SSHで使用するポートが外向けに開いていないか
+- [ ] IPv6でアクセスした場合でも、不要なポートが外向けに開いていないか
+	Ubuntuであればufwが有効になっているか、公開する必要の無いポートをallowしていないかを確認すること。
 
 ## HTTPヘッダ
-- [ ] [Observatory by Mozilla](https://observatory.mozilla.org/)のスコアがA以上になっているか
+- [ ] HTTP Strict Transport Security (HSTS) ヘッダを設定しているか。
+- [ ] Mastodonv2.6.0以前の場合、Contents Security Policy(CSP)ヘッダを適切に設定しているか。
+- [ ] [Observatory by Mozilla](https://observatory.mozilla.org/)のスコアがA以上になっているか。
+
+## HTTPS
+- [ ] Let'sEncryptを使用する場合、certbotの動作を確認したか
+	`certbot renew --dry-run`で確認できます。
