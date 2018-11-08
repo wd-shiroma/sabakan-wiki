@@ -40,3 +40,9 @@
 		echo -n "ゆゆ式 "
 	done
 
+# マストドン リンク集
+
+* [tootsuite/mastdon(マストドンソースコード)](https://github.com/tootsuite/mastodon)
+* [Mastodon documentation Installation(マストドンインストールガイド)](https://docs.joinmastodon.org/administration/installation/) | [Source](https://source.joinmastodon.org/mastodon/docs)
+* [Mastodon Production Guide 日本語版(マストドンインストールガイド日本語版(旧版ドキュメント)](https://github.com/kyori19/documentation/blob/master/Running-Mastodon/Production-guide.ja.md)
+
