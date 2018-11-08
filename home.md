@@ -9,6 +9,25 @@
 お試しで記事編集の練習をしてみたい方は、[sandbox](/sandbox) をご利用ください。
 
 **※記事の編集には[ログイン](/login)が必要です。**
-GitHubまたはDiscord(OAuth2)のアカウントで参加してください。
+GitHub~~またはDiscord(OAuth2)~~のアカウントで参加してください。
+※DiscordはOAuth2からメールアドレスが取れなそうなので、しばらく停止します。
 
 鯖缶工場Discordサーバは[こちら](https://discordapp.com/channels/480731529073524736)
+
+# カテゴリ
+[サーバー全般(/server)](/server)
+[マストドン関連(/mastodon)](/mastodon)
+[Pleroma関連(/pleroma)](/pleroma)
+[Misskey関連(/misskey)](/misskey)
+[GNUSocial関連(/gnusocial)](/gnusocial)
+[Hubzilla関連(/hubzilla)](/hubzilla)
+[Yayaka関連(/yayaka)](/yayaka)
+[microblog.pub関連(/microblogpub)](/microblog.pub)
+[Diaspora\*関連(/diaspora)](/diaspora)
+
+# 簡単なページ作成ルール
+特に指定はないですが、[カテゴリ](#カテゴリ)配下に関連情報を書いてくれると、アクセシビリティが増します。
+
+# 問い合わせ
+
+[@guskma@abyss.fun](https://abyss.fun/@guskma) またはDiscordサーバーまで
