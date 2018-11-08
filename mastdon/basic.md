@@ -1,5 +1,5 @@
-<!-- TITLE: Basic -->
-<!-- SUBTITLE: A quick summary of Basic -->
+<!-- TITLE: マストドンの基本情報 -->
+<!-- SUBTITLE: マストドンの基本的な情報です -->
 
 # マストドンの基本情報
 
