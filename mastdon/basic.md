@@ -9,7 +9,7 @@ https://www.joinmastodon.org/
 
 # マストドンの入手
 * [GItHub(マストドンソースコード)](https://github.com/tootsuite/mastodon)
-* [mastodon Dockerイメージ](https://hub.docker.com/r/gargron/mastodon/)
+* [DockerHub(マストドン Dockerイメージ)](https://hub.docker.com/r/gargron/mastodon/)
 
 # 公式ドキュメント
 * [Mastodon documentation](https://docs.joinmastodon.org/) | [Source](https://source.joinmastodon.org/mastodon/docs)
