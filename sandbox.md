@@ -25,7 +25,7 @@
 
 ## 構築情報
 * [tootsuite/mastdon(マストドンソースコード)](https://github.com/tootsuite/mastodon)
-* [matdon Dockerイメージ](https://hub.docker.com/r/gargron/mastodon/)
+* [mastodon Dockerイメージ](https://hub.docker.com/r/gargron/mastodon/)
 * [Mastodon documentation Installation(マストドンインストールガイド)](https://docs.joinmastodon.org/administration/installation/) | [Source](https://source.joinmastodon.org/mastodon/docs)
 * [Mastodon Production Guide 日本語版(マストドンインストールガイド日本語版(旧版ドキュメント)](https://github.com/kyori19/documentation/blob/master/Running-Mastodon/Production-guide.ja.md)
 * [マストドンセキュリティガイドライン](http://ashphy.hateblo.jp/entry/mastodon-securit-guidelines)
