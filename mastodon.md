@@ -10,3 +10,4 @@
 * [マストドンの記事リンク集](/mastodon/links)
 * [tootctl](/mastodon/tootctl)
 * [マストドン構築・運用時の罠](/mastodon/traps)
+* [Mastodonセキュリティチェックシート](/mastodon/security-checksheet)
