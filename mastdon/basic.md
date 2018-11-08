@@ -13,4 +13,4 @@ https://www.joinmastodon.org/
 
 # 公式ドキュメント
 * [Mastodon documentation](https://docs.joinmastodon.org/) | [Source](https://source.joinmastodon.org/mastodon/docs)
-* [2018年10月21日より更新停止: Mastodon documentation](https://github.com/tootsuite/documentation)
+* [Mastodon documentation **注:2018年10月21日より更新停止**](https://github.com/tootsuite/documentation)
