@@ -9,7 +9,7 @@ https://www.joinmastodon.org/
 
 ## 推薦動作環境
 
-* [Ubuntu 18.04](Ubuntu 18.04)
+* [Ubuntu 18.04](https://docs.joinmastodon.org/administration/installation/#basic-server-setup-optional)
 
 ## マストドンの入手
 * [GItHub(マストドンソースコード)](https://github.com/tootsuite/mastodon)
