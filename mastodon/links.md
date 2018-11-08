@@ -22,4 +22,5 @@
 
 ## その他
 
+* [Mastodon Advent Calendar 2018 - Qiita](https://qiita.com/advent-calendar/2018/mastodon)
 * [Mastodon Advent Calendar 2017 - Qiita](https://qiita.com/advent-calendar/2017/mastodon)
