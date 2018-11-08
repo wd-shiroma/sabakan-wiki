@@ -3,6 +3,6 @@
 
 # マストドン記事リンク集
 
-## 構築
+## システム運用
 
 * [実際に運用してみてわかった、大規模Mastodonインスタンスを運用するコツ - pixiv inside](https://inside.pixiv.blog/harukasan/1284)
