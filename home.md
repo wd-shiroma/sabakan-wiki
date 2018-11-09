@@ -32,6 +32,20 @@ Other...
 # 簡単なページ作成ルール
 特に指定はないですが、[カテゴリ](#カテゴリ)配下に関連情報を書いてくれると、アクセシビリティが増します。
 
+# 当wikiのコンテンツ取り扱いについて
+当Wikiはクリエイティブ・コモンズ・ライセンスの「[表示-継承](https://creativecommons.org/licenses/by-sa/4.0/legalcode.ja)」を適用しています。
+
+![By Sa](/uploads/by-sa.png "By Sa")
+
+* 二次利用をする場合は引用したURLを必ず明記してください。
+* 二次利用したコンテンツは当ライセンスと同様の「表示-継承」が適用されます。
+
+当wikiのコンテンツはgithubにてバックアップを取っております。
+
+https://github.com/wd-shiroma/sabakan-wiki
+
+こちらも上記クリエイティブ・コモンズ・ライセンスが適用されます。
+
 # 問い合わせ
 
 [@guskma@abyss.fun](https://abyss.fun/@guskma) またはDiscordサーバーまで
