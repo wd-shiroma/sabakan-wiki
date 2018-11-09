@@ -6,3 +6,4 @@
 
 ---
 * [Hubzillaの基本情報](/hubzilla/basic)
+* [インストール](/hubzilla/instration)
