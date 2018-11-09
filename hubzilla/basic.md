@@ -29,3 +29,6 @@ https://project.hubzilla.org/page/hubzilla/hubzilla-project
 
 # 公式ドキュメント
 * [Hubzilla Development](https://project.hubzilla.org/page/hubzilla/hubzilla-project)
+
+# 稼働中の日本向けサーバー
+* [Harukin+!](https://plus.haruk.in) ボッチで寂しいからみんな建てて！(懇願)
