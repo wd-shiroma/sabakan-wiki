@@ -122,7 +122,9 @@ sudo chmod -R 755 /var/www/html/hubzilla/
 ```
 
 # 9 nginxの設定
-`sudo nano /etc/nginx/sites-available/hubzilla`
+```text
+sudo nano /etc/nginx/sites-available/hubzilla
+```
 またnanoが開くので、以下を入力。example.comは自分のドメインを入力してください。
 ```text
 server {
