@@ -39,7 +39,7 @@ sudo mysql_secure_installation
 ```
 すると次のような文字が表示されるので従ってください。
     Enter current password for root (enter for none): **（何も入力せずにEnter）**
-    Set root password? [Y/n]:** Y**
+    Set root password? [Y/n]: **Y**
     New password:**パスワードの入力(新規作成です。sudo等とは関係ありません。)**
     Re-enter new password: **パスワードの再入力(上と同じパスワードを入力)**
     Remove anonymous users? [Y/n]: **Y**
@@ -149,5 +149,11 @@ sudo systemctl restart nginx.service
 
 # 10 初期設定
 使うドメインにアクセスしてみてください。問題無く成功しているようであれば初期設定画面が表示されるはずです。
-![Hubzilla Ubuntu Install](/uploads/hubzilla-ubuntu-install.png "Hubzilla Ubuntu Install")
+![Hubzilla Ubuntu Install](https://i1.wp.com/websiteforstudents.com/wp-content/uploads/2018/08/hubzilla_ubuntu_install.png "Hubzilla Ubuntu Install")
 
+入力するのは
+* Database Login Name （メモ2）
+* Database Login Password （メモ3）
+* Database Name （メモ1）
+です。
+次はサイト名などの設定です。お疲れさまでした。
