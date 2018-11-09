@@ -15,9 +15,9 @@
 ## SSH
 
 - [ ] rootユーザーでログインが出来ないようになっているか
-	sshd_config で `PermitRootLogin no`になっているか
+	sshd_config で `PermitRootLogin no`に設定し、rootユーザーでのログインが拒否されることを確認しましょう。
 - [ ] パスワード認証を無効にしているか
-	sshd_config で `PasswordAuthentication no` になっているか
+	sshd_config で `PasswordAuthentication no` に設定し、パスワードでの認証が出来ないことを確認しましょう。
 - [ ] fail2ban等で侵入を試みたIPアドレスをブロックしているか（オプション）
 
 ## ファイアウォール
