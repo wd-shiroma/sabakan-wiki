@@ -61,16 +61,16 @@ sudo apt install php7.2-fpm php7.2-common php7.2-sqlite3 php7.2-curl php7.2-intl
 # 5 PHPの設定
 `sudo nano /etc/php/7.2/fpm/php.ini`
 でnanoが開かれますので下のデータを探して書き変えてください。
-
-> file_uploads = On
-> allow_url_fopen = On
-> short_open_tag = On
-> memory_limit = 256M
-> cgi.fix_pathinfo = 0
-> upload_max_filesize = 100M
-> max_execution_time = 360
-> date.timezone =Asia/Tokyo
-
+```text
+file_uploads = On
+allow_url_fopen = On
+short_open_tag = On
+memory_limit = 256M
+cgi.fix_pathinfo = 0
+upload_max_filesize = 100M
+max_execution_time = 360
+date.timezone =Asia/Tokyo
+```
 ctl+x、で終了できます。データの保存をお忘れなく。
 
 # 6 データベースの作成
@@ -114,30 +114,32 @@ sudo chmod -R 755 /var/www/html/hubzilla/
 # 9 nginxの設定
 `sudo nano /etc/nginx/sites-available/hubzilla`
 またnanoが開くので、以下を入力。example.comは自分のドメインを入力してください。
-> server {
->     listen 80;
->     listen [::]:80;
->     root /var/www/html/hubzilla;
->     index  index.php index.html index.htm;
->     server_name  example.com www.example.com;
-> 
->     client_max_body_size 100M;
-> 
->     location / {
->         if ($is_args != "") {
->         rewrite ^/(.*) /index.php?q=$uri&$args last;
->       }
->     rewrite ^/(.*) /index.php?q=$uri last;
->       }
-> 
-> 
->     location ~ \.php$ {
->          include snippets/fastcgi-php.conf;
->          fastcgi_pass unix:/var/run/php/php7.2-fpm.sock;
->          fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
->          include fastcgi_params;
->     }
-> }
+```text
+server {
+    listen 80;
+    listen [::]:80;
+    root /var/www/html/hubzilla;
+    index  index.php index.html index.htm;
+    server_name  example.com www.example.com;
+
+    client_max_body_size 100M;
+
+    location / {
+        if ($is_args != "") {
+        rewrite ^/(.*) /index.php?q=$uri&$args last;
+      }
+    rewrite ^/(.*) /index.php?q=$uri last;
+      }
+
+
+    location ~ \.php$ {
+         include snippets/fastcgi-php.conf;
+         fastcgi_pass unix:/var/run/php/php7.2-fpm.sock;
+         fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+         include fastcgi_params;
+    }
+}
+```
 
 保存して終了してください。
 最後に設定を有効化して終了です。
