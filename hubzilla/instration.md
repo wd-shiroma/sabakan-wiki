@@ -59,7 +59,9 @@ sudo apt install php7.2-fpm php7.2-common php7.2-sqlite3 php7.2-curl php7.2-intl
 ```
 
 # 5 PHPの設定
-`sudo nano /etc/php/7.2/fpm/php.ini`
+```text
+sudo nano /etc/php/7.2/fpm/php.ini
+```
 でnanoが開かれますので下のデータを探して書き変えてください。
 ```text
 file_uploads = On
@@ -75,16 +77,24 @@ ctl+x、で終了できます。データの保存をお忘れなく。
 
 # 6 データベースの作成
 まずデータベースにログインします。
-`sudo mysql -u root -p`
+```text
+sudo mysql -u root -p
+```
 
 データベースを作成します。このhubzillaというのがデータベースの名前(メモ1)となります。
-`CREATE DATABASE hubzilla;`
+```text
+CREATE DATABASE hubzilla;
+```
 
 データベースにアクセスするユーザーを作成します。hubzillauserというのがユーザー名(メモ2)、passwordは自分の自由に入力(メモ3)してください。
-`CREATE USER 'hubzillauser'@'localhost' IDENTIFIED BY 'password';`
+```text
+CREATE USER 'hubzillauser'@'localhost' IDENTIFIED BY 'password';
+```
 
 ユーザーのアクセス権限の設定です。hubzillaというのは(メモ1)の名前となり、hubzillauserは(メモ2)、passwordは(メモ3)を入力してください。
-`GRANT ALL ON hubzilla.* TO 'hubzillauser'@'localhost' IDENTIFIED BY 'password' WITH GRANT OPTION;`
+```text
+GRANT ALL ON hubzilla.* TO 'hubzillauser'@'localhost' IDENTIFIED BY 'password' WITH GRANT OPTION;
+```
 
 最後に適用して終了してください。
 ```text
