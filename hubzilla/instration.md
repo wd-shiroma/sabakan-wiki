@@ -138,6 +138,7 @@ sudo chmod -R 755 /var/www/html/hubzilla/
 >          include fastcgi_params;
 >     }
 > }
+
 保存して終了してください。
 最後に設定を有効化して終了です。
 
