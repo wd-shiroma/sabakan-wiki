@@ -10,7 +10,7 @@ https://project.hubzilla.org/page/hubzilla/hubzilla-project
 
 * Ubuntu 18.04
 
-# マストドンの入手
+# Hubzillaの入手
 * [GitLab(ソースコード)](https://framagit.org/hubzilla/core/)
 
 # 公式ドキュメント
