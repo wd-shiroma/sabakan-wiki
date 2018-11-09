@@ -6,6 +6,6 @@
 
 ---
 * [Hubzillaの基本情報](/hubzilla/basic)
-* [インストール](/hubzilla/instration)
+* [インストール](/hubzilla/installation)
 * [アドオン](/hubzilla/addon)
 * [テーマ](/hubzilla/theme)
