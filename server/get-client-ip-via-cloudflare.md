@@ -36,5 +36,9 @@ set_real_ip_from 2a06:98c0::/29;
 real_ip_header CF-Connecting-IP;
 ```
 
+CloudflareのIPアドレスからアクセスがあった場合、nginxでリクエストヘッダを本来のアクセス元IPアドレスに書き換えます。
+そのため、iptablesなどサーバー側のファイアウォールではIP BANすることはできません。
+CloudflareのIP Firewallの使用を検討しましょう。
+
 # 参考
 * [How do I restore original visitor IP with Nginx? – Cloudflare Support](https://support.cloudflare.com/hc/en-us/articles/200170706-How-do-I-restore-original-visitor-IP-with-Nginx-)
