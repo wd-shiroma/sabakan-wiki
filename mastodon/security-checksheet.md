@@ -39,6 +39,7 @@
 - [ ] ソースを改変した場合、そのソースをGithub等で公開しているか
   MastodonはAPGLであるため、ソースコードを改変した場合、開示する必要があります。
 - [ ] 関連法規を確認したか
+	法律を知っておくことは、何かあった時に自分を守ることにも繋がります。
 	- [個人情報の保護に関する法律（個人情報保護法）](http://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=415AC0000000057)
 	- [特定電気通信役務提供者の損害賠償責任の制限及び発信者情報の開示に関する法律（プロバイダ有限責任法）](http://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=413AC0000000137)
 
