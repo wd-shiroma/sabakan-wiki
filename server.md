@@ -2,7 +2,7 @@
 <!-- SUBTITLE: サーバー関連のあれこれ -->
 
 # コンテンツ
-* [サーバー監視ツールを使おう](server/サーバー監視ツールを)
+* [サーバー監視ツールを使おう](server/monitoring-server)
 * [Cloudflareを使う場合のクライアントIP取得方法](server/get-client-ip-via-cloudflare)
 
 
