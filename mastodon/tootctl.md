@@ -9,6 +9,10 @@ tootctlとは、[Mastodon v2.5.0から実装された](https://github.com/tootsu
 ```
 RAILS_ENV=production bundle exec bin/tootctl SUBCOMMAND [OPTIONS]
 ```
+docker環境
+```
+docker-compose run --rm web bundle exec bin/tootctl SUBCOMMAND [OPTIONS]
+```
 
 ## サブコマンド一覧
 tootctlのヘルプをもとに作成しています。
