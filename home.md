@@ -13,6 +13,7 @@ GitHub ~~またはDiscord(OAuth2)~~ のアカウントで参加してくださ�
 ※DiscordはOAuth2からメールアドレスが取れなそうなので、しばらく停止します。
 
 鯖缶工場Discordサーバは[こちら](https://discordapp.com/channels/480731529073524736)
+ActivityPubをしゃべるブログを解説できます！ [info.sabakan.industries](https://info.sabakan.industries)
 
 # カテゴリ
 * [サーバー全般(/server)](/server)
@@ -24,6 +25,7 @@ GitHub ~~またはDiscord(OAuth2)~~ のアカウントで参加してくださ�
 * [Yayaka関連(/yayaka)](/yayaka)
 * [microblog.pub関連(/microblogpub)](/microblog.pub)
 * [Diaspora\*関連(/diaspora)](/diaspora)
+* [WriteFreely関連(/writefreely)](/writefreely)
 
 Other...
 [Discordサーバー関連](/discord)
