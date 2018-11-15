@@ -13,7 +13,7 @@ GitHub ~~またはDiscord(OAuth2)~~ のアカウントで参加してくださ�
 ※DiscordはOAuth2からメールアドレスが取れなそうなので、しばらく停止します。
 
 鯖缶工場Discordサーバは[こちら](https://discordapp.com/channels/480731529073524736)
-ActivityPubをしゃべるブログを解説できます！ [info.sabakan.industries](https://info.sabakan.industries)
+ActivityPubをしゃべるブログを開設できます！ [info.sabakan.industries](https://info.sabakan.industries)
 
 # カテゴリ
 * [サーバー全般(/server)](/server)
