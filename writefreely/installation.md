@@ -2,7 +2,7 @@
 <!-- SUBTITLE: golangなので比較的楽です -->
 
 # 想定環境
-* Ubuntu18.04LTS
+* Ubuntu18.04 LTS
 
 # インストール手順
 ## aptパッケージインストール
@@ -13,7 +13,7 @@ $ sudo apt install mysql-server mysql-client nginx wget
 
 ##  WriteFreelyダウンロード
 
-最新のバージョンを [こちら](https://github.com/writeas/writefreely/releases) から確認する `wget` する
+最新のバージョンを [こちら](https://github.com/writeas/writefreely/releases) から確認して `wget` する
 
 ```
 $ mkdir writefreely && cd writefreely
