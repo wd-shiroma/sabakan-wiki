@@ -6,4 +6,6 @@
 
 ----
 
-* [info.sabakan.industries(ブログサービス)](https://info.sabakan.industries)
+* [インストール手順](/writefreely/installation)
+
+* [info.sabakan.industries(鯖缶工場公式)](https://info.sabakan.industries)
