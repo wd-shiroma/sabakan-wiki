@@ -13,7 +13,7 @@ $ sudo apt install mysql-server mysql-client nginx wget
 
 ##  WriteFreelyダウンロード
 
-最新のバージョンを [こちら](https://github.com/writeas/writefreely/releases) から確認するwgetする
+最新のバージョンを [こちら](https://github.com/writeas/writefreely/releases) から確認する `wget` する
 
 ```
 $ mkdir writefreely && cd writefreely
