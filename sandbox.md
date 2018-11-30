@@ -60,3 +60,6 @@ Cloudflare（クラウドフレア）は、コンテンツデリバリーネッ�
 		echo -n "ゆゆ式 "
 	done
 
+
+#410 Gone
+HTTP status 410 is returned for closed instance . 

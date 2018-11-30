@@ -1,0 +1,8 @@
+demo.pptdn.jp
+
+root /tmp/
+gzip
+rewrite .* /
+status 410  {
+ /
+}
