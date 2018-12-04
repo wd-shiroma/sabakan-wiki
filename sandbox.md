@@ -62,4 +62,17 @@ Cloudflare（クラウドフレア）は、コンテンツデリバリーネッ�
 
 
 #410 Gone
-HTTP status 410 is returned for closed instance . 
+HTTP status 410 is returned for closed instance . [Caddyfile Demo Pptdn](/uploads/caddyfile-demo-pptdn.jp "Caddyfile Demo Pptdn")
+
+
+-----
+
+
+demo.pptdn.jp
+
+root /tmp/
+gzip
+rewrite .* /
+status 410  {
+ /
+}
