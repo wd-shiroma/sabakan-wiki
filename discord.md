@@ -15,6 +15,6 @@
 [鯖缶工場](https://discordapp.com/channels/480731529073524736)
 
 招待用URL：
-https://discordapp.com/channels/480731529073524736
+https://discord.gg/mJJGAHv
 
 新規インスタンスの立ち上げ支援については、[立ち上げ支援依頼運用ポリシー](/discord/support-policy)を確認してください
