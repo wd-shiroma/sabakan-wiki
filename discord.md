@@ -14,6 +14,8 @@
 
 [鯖缶工場](https://discordapp.com/channels/480731529073524736)
 
+[使い方](/discord/how-to-use)
+
 招待用URL：
 https://discord.gg/mJJGAHv
 
