@@ -27,6 +27,6 @@ https://github.com/BOETZILLA/BLUEBASIC_Theme
 カクカクした特徴を持つUIです。左上のユーザーのコンテンツリンクが利用できるようになっているのが特徴です。
 
 * Treer
-https://gitlab.com/Treer/hubzilla-themes.git
-緑がアクセントなテーマのようですが2016年移行更新は無くバージョンの問題で適用できませんでした。
+https://gitlab.com/Treer/hubzilla-themes
+緑がアクセントなテーマのようですが2016年移行更新は無くバージョンの問題で現在では適用できませんでした。
 
