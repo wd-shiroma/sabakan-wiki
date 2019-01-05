@@ -16,8 +16,17 @@ hubzillaではテーマを追加することによって見た目を改善する
 # リポジトリ一覧
 * deadsuperhero's theme
 https://github.com/DeadSuperHero/hubzilla-themes
-非公式のテーマです。若干開発が停滞しているようです。
+若干開発が停滞しているようです。
 
 * harukin's personal theme
 https://gitlab.haruk.in/harukin/hubzillatheme
-非公式のテーマです。Google+風テーマの作成をされているようです。plusfutureのLightスキームしか開発していなかったりします。
+Google+風テーマの作成をされているようです。plusfutureのLightスキームしか開発していなかったりします。
+
+* BLUEBASIC_Theme
+https://github.com/BOETZILLA/BLUEBASIC_Theme
+カクカクした特徴を持つUIです。左上のユーザーのコンテンツリンクが利用できるようになっているのが特徴です。
+
+* Treer
+https://gitlab.com/Treer/hubzilla-themes.git
+緑がアクセントなテーマのようですが2016年移行更新は無くバージョンの問題で適用できませんでした。
+
