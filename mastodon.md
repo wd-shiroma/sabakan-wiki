@@ -11,3 +11,4 @@
 * [tootctl](/mastodon/tootctl)
 * [Mastodon構築・運用時の罠](/mastodon/traps)
 * [Mastodonセキュリティチェックシート](/mastodon/security-checksheet)
+* [インスタンスの閉じ方（閉鎖）について](/mastodon/instance-close)
