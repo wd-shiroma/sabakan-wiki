@@ -48,5 +48,5 @@
 - [何が変わる？ 改正個人情報保護法 インフォグラフィック | データのじかん](https://data.wingarc.com/privacy-infographic-4897)
 - [みんなのための著作権講座(初心者向け解説サイト)](http://kids.cric.or.jp/intro/index.html)
 - [個人情報保護委員会](https://www.ppc.go.jp/)
--[インターネットの安全・安心ハンドブック](https://www.nisc.go.jp/security-site/handbook/index.html)
--[内閣サイバーセキュリティセンター(NISC)](https://www.nisc.go.jp/security-site/handbook/index.html)
+- [インターネットの安全・安心ハンドブック](https://www.nisc.go.jp/security-site/handbook/index.html)
+- [内閣サイバーセキュリティセンター(NISC)](https://www.nisc.go.jp/security-site/handbook/index.html)
