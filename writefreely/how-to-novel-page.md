@@ -217,7 +217,7 @@ body#post footer nav p:before {
 フッターを右上に隠れている時に表示されるアイコンを設定しています。
 CloudFlareのCDNからTwemojiの感嘆符（！）画像を取得しています。
 
-## WriteFreely標準のスタイルとして縦書きを採用する
+# WriteFreely標準のスタイルとして縦書きを採用する
 
 サーバのスタイルシートを編集して `make ui` をすれば組み込めそうだけど未検証のため追加情報求む
 
