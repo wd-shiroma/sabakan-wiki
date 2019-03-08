@@ -12,8 +12,14 @@
 GitHub ~~またはDiscord(OAuth2)~~ のアカウントで参加してください。
 ※DiscordはOAuth2からメールアドレスが取れなそうなので、しばらく停止します。
 
-鯖缶工場Discordサーバは[こちら](https://discordapp.com/channels/480731529073524736)
-ActivityPubをしゃべるブログを開設できます！ [info.sabakan.industries](https://info.sabakan.industries)
+# 関連サービス
+
+* [鯖缶工場Discordサーバ](https://discordapp.com/channels/480731529073524736)
+相談・雑談などを主としたチャットサービスです。
+* [鯖缶工場広報課](https://info.sabakan.industries)
+シンプルなブログサービスです。更新情報をActivityPubに流せます。
+* [Fedeloper forum](https://forum.fedeloper.jp/)
+本格的な議論を主とした掲示板サービスです。
 
 # カテゴリ
 * [サーバー全般(/server)](/server)
