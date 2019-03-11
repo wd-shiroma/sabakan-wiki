@@ -23,6 +23,7 @@ tootctlのヘルプをもとに作成しています。
 	* backup
 	* create
 	* cull
+		参考：[tootctl accounts cull - noellabo's tech blog](https://noellabo.qrunch.io/entries/Qn6iRR55UCwqZdng)
 	* delete
 	* modify
 	* refresh
