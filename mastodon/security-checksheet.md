@@ -40,13 +40,13 @@
   MastodonはAPGLであるため、ソースコードを改変した場合、開示する必要があります。
 - [ ] 関連法規を確認したか
 	法律を知っておくことは、何かあった時に自分を守ることにも繋がります。
-	- [個人情報の保護に関する法律（個人情報保護法）](http://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=415AC0000000057)
-	- [特定電気通信役務提供者の損害賠償責任の制限及び発信者情報の開示に関する法律（プロバイダ有限責任法）](http://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=413AC0000000137)
+	- [個人情報の保護に関する法律（個人情報保護法）](https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=415AC0000000057)
+	- [特定電気通信役務提供者の損害賠償責任の制限及び発信者情報の開示に関する法律（プロバイダ有限責任法）](https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=413AC0000000137)
 
 # 参考リンク・関連情報
-- [プロバイダ責任制限法関連情報Webサイト](http://www.isplaw.jp/)
+- [プロバイダ責任制限法関連情報Webサイト](https://www.isplaw.jp/)
 - [何が変わる？ 改正個人情報保護法 インフォグラフィック | データのじかん](https://data.wingarc.com/privacy-infographic-4897)
-- [みんなのための著作権講座(初心者向け解説サイト)](http://kids.cric.or.jp/intro/index.html)
+- [みんなのための著作権講座(初心者向け解説サイト)](https://kids.cric.or.jp/intro/index.html)
 - [個人情報保護委員会](https://www.ppc.go.jp/)
 - [インターネットの安全・安心ハンドブック](https://www.nisc.go.jp/security-site/handbook/index.html)
 - [内閣サイバーセキュリティセンター(NISC)](https://www.nisc.go.jp/security-site/handbook/index.html)
