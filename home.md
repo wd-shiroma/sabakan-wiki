@@ -1,5 +1,12 @@
-<!-- TITLE: 鯖缶工場Wiki -->
-<!-- SUBTITLE: 鯖缶の鯖缶による鯖缶のためのナレッジベース -->
+---
+title: 鯖缶工場Wiki
+description: 鯖缶の鯖缶による鯖缶のためのナレッジベース
+published: true
+date: 2021-03-11T09:05:04.057Z
+tags: 
+editor: markdown
+dateCreated: 2020-05-18T06:40:55.525Z
+---
 
 # ようこそ
 このWikiは [Mastodon](https://joinmastodon.org) を中心とした、分散型SNSのインスタンスの構築やサーバ管理のためのナレッジを蓄積するためのWikiです。
@@ -32,6 +39,10 @@ GitHub ~~またはDiscord(OAuth2)~~ のアカウントで参加してくださ�
 * [microblog.pub関連(/microblogpub)](/microblog.pub)
 * [Diaspora\*関連(/diaspora)](/diaspora)
 * [WriteFreely関連(/writefreely)](/writefreely)
+
+* Matrix
+  ※[Matrix-jp](https://matrix-jp.net/start)様がWikiページを保有しているため、当Wikiでは扱いません。
+  [Matrix-jp Wiki](https://wiki.matrix-jp.net)
 
 Other...
 [Discordサーバー関連](/discord)
