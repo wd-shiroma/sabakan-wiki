@@ -2,7 +2,7 @@
 title: 鯖缶工場Wiki
 description: 鯖缶の鯖缶による鯖缶のためのナレッジベース
 published: true
-date: 2021-03-11T09:05:04.057Z
+date: 2023-05-10T08:26:13.076Z
 tags: 
 editor: markdown
 dateCreated: 2020-05-18T06:40:55.525Z
@@ -41,8 +41,8 @@ GitHub ~~またはDiscord(OAuth2)~~ のアカウントで参加してくださ�
 * [WriteFreely関連(/writefreely)](/writefreely)
 
 * Matrix
-  ※[Matrix-jp](https://matrix-jp.net/start)様がWikiページを保有しているため、当Wikiでは扱いません。
-  [Matrix-jp Wiki](https://wiki.matrix-jp.net)
+  ※Matrix-jp様がWikiページを保有しているため、当Wikiでは扱いません。
+  [Matrix-jp Wiki](https://matrix-docs-jp.netlify.app/)
 
 Other...
 [Discordサーバー関連](/discord)
