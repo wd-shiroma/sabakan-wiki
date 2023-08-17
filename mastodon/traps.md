@@ -1,5 +1,12 @@
-<!-- TITLE: マストドン構築・運用時の罠 -->
-<!-- SUBTITLE: マストドン構築・運用時の罠の紹介 -->
+---
+title: マストドン構築・運用時の罠
+description: マストドン構築・運用時の罠の紹介
+published: true
+date: 2023-08-17T05:15:30.617Z
+tags: 
+editor: markdown
+dateCreated: 2020-05-18T06:41:25.155Z
+---
 
 # assets:precompileの罠
 
@@ -55,3 +62,17 @@ DNSのドメイン名はcase insensitive(大文字・小文字を区別しない
 大量のフォロワーインポートが行われると、初期の規模に見合わないサーバの負荷に見舞われることになります。
 もし既存マストドン利用者の引っ越しが想定される場合、十分なサーバリソースを事前に用意しておく必要があります。
 
+# YugabyteDBの罠
+[公式の手順](https://docs.joinmastodon.org/admin/install/)に従ってセットアップを進めるとmastodon:setupの途中でデータベース関係のエラーが発生します｡
+## 回避策
+[これ](https://dev.to/yugabyte/mastodon-on-yugabytedb-10o2)を参考に
+mastodon:setup実行前に
+```bash
+sed -e '/"index_unique_conversations"/d' -i db/schema.rb
+sed -e '/"index_ip_blocks_on_ip"/d' -i db/schema.rb
+```
+mastodon:setup実行後にpsqlなりysqlshでMastodonのデータベースに繋いで
+```SQL
+create or replace function array_signature(a bigint[]) returns text as 'select array_agg(unnest order by unnest)::text from unnest(a);' immutable language sql;
+CREATE UNIQUE INDEX index_unique_conversations ON public.account_conversations (account_id, conversation_id, (array_signature(participant_account_ids)));
+```
